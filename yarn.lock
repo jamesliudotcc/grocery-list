@@ -140,10 +140,10 @@
     "@types/express-serve-static-core" "*"
     "@types/mime" "*"
 
-"@types/validator@^10.9.0":
-  version "10.9.0"
-  resolved "https://registry.yarnpkg.com/@types/validator/-/validator-10.9.0.tgz#747f36c7ad281da769458ab4c3b8837aee1578b6"
-  integrity sha512-mf0VpXk+NoTmkUmuJCsdwBYxjYZW41amCSzd4t/fABMKl+qGMViwFP0pR7ukFdZRXWI1LIkca3VIbXVBmWZ4kQ==
+"@types/validator@^12.0.0":
+  version "12.0.0"
+  resolved "https://registry.yarnpkg.com/@types/validator/-/validator-12.0.0.tgz#a98b3f3db596f176334de8e94ec88b6b2a44c715"
+  integrity sha512-3ToPJQmvlDoGnw1XRdn/tAiLauFNCGlmcsFZOQ7pbD6bMp9936myYGL6I81KyCaFpDZc6cb1NlObuMb4Ed+Onw==
 
 abbrev@1:
   version "1.1.1"

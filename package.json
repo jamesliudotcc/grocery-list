@@ -40,7 +40,7 @@
     "@types/node": "^8.0.29",
     "@types/passport": "^1.0.0",
     "@types/passport-local": "^1.0.33",
-    "@types/validator": "^10.9.0",
+    "@types/validator": "^13.1.2",
     "prettier": "^1.16.4",
     "prettier-tslint": "^0.4.2",
     "ts-node": "^3.3.0",
